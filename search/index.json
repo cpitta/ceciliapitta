@@ -1,0 +1,14 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj1",
+    "artist": "W. Daniell RA",
+    "label": "Drawing of the Mouseleum of the Emperor Shere Shahl",
+    "location": "India",
+    "collection": "daniell",
+    "permalink": "/daniell/obj1",
+    "lunr_id": 0
+  }
+]
